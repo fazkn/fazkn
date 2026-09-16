@@ -1,7 +1,7 @@
 Hi👋 I’m Faza.
 ==
-An Information System student who loves to learn and understanding web development.  
-I'm currently learning React and Back-End from ASAH by Dicoding.  
+An Information System student who loves learning and understanding web development.  
+I'm currently doing an internship at Kemantren Tegalrejo.
 If you're interested, feel free to check my [LinkedIn](www.linkedin.com/in/fairuz-azk-nugraha/)!  
 Thank you  
 
